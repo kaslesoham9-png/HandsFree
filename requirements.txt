@@ -1,0 +1,9 @@
+# Runtime dependencies
+# (mediapipe pulls in opencv-contrib-python, which provides cv2 - do NOT also
+#  install opencv-python, two OpenCV packages conflict and bloat the build)
+mediapipe
+pyautogui
+numpy
+PySide6-Essentials
+# optional: global hotkeys (Ctrl+Alt+P pause / Ctrl+Alt+C recalibrate)
+pynput
