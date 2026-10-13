@@ -1,2 +1,3 @@
 # HandsFree
 This is a project made by me using python which will replace the use of mouse and keyboard by simply hand and head movements.....
+<img width="1476" height="989" alt="Screenshot 2026-10-13 210200" src="https://github.com/user-attachments/assets/564f6e97-cc44-446e-a19f-e7d666620b0a" />
